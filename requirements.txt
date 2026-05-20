@@ -1,0 +1,20 @@
+# UI
+streamlit>=1.32.0
+
+# Data acquisition (training only)
+kagglehub
+
+# Core ML/NLP
+pandas
+numpy
+scikit-learn
+torch
+transformers
+sentencepiece
+accelerate
+safetensors
+datasets
+
+# Visualization (training only)
+matplotlib
+seaborn
